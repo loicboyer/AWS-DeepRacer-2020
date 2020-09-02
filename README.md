@@ -1,6 +1,6 @@
 ## AWS Deepracer 
 
-This Github contains models and Python code using Reinforcment Learning for the 2020 AWS DeepRacer League
+This Github contains Reinforcement Learning Python code and autonomous car models for the 2020 AWS DeepRacer League
 
 ## Resources
 
